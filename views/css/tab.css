@@ -1,0 +1,10 @@
+body, html{
+	margin: 0px;
+	padding: 0px;
+}
+
+#container{
+	width: 520px;
+	padding: 0px;
+	margin: 0px;
+}
